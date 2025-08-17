@@ -87,7 +87,9 @@ class VTS():
 async def main():
     connector = VTS()
     await connector.init()
-    await connector.speak()
+    await connector.speak("This is a test for VTube Studio integration. Made by Sylo.")
 
-if __name__ == "__main__":
+def runner():
     asyncio.run(main())
+if __name__ == "__main__":
+    runner()
