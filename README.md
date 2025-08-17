@@ -62,4 +62,4 @@ pip install pyvts pyttsx3 numpy
 
 - [VTube Studio API](https://github.com/DenchiSoft/VTubeStudioAPI)
 - [pyttsx3](https://pypi.org/project/pyttsx3/)
--
+- [Sylo](https://www.youtube.com/@sylo_3285)
